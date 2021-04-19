@@ -8,4 +8,4 @@ The recording and pdf can be found here: https://gtc21.event.nvidia.com/media/Sc
 
 The code examples can be found at https://github.com/mathworks/Advanced-Examples-of-3D-Brain-Tumor-Segmentation-and-Experiment-Manager
 
-The Blog is available at https://blogs.mathworks.com/deep-learning/2021/04/12/implementing-multiple-ai-experiments/
+The Blog is available at https://blogs.mathworks.com/deep-learning/2021/04/12/scaling-your-deep-learning-research-from-desktop-to-cloud/
